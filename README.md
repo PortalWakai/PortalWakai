@@ -62,5 +62,5 @@ Quer ajudar a construir este portal?
   <br>
   <img src="https://img.shields.io/badge/Feito%20com-❤️-FF5252" alt="Feito com amor">
   <br>
-  <sub>© 2023 Portal Wakai - Conectando leitores e autores</sub>
+  <sub>© 2025 Portal Wakai - Conectando leitores e autores</sub>
 </div>
